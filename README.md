@@ -1,5 +1,3 @@
-# pomodoro-timer-python
-
 # Python Pomodoro Timer
 
 A lightweight desktop productivity timer built with Python and the Tkinter GUI library. 
